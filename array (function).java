@@ -25,7 +25,6 @@ for(int k=0;k<a.length;k++)
  {
  System.out.println(a[k]);
  }
- System.out.println("array 2");
  for(int u=0;u<b.length;u++)
  {
  System.out.println(b[u]);
